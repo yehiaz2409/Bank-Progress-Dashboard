@@ -48,7 +48,7 @@ The dataset includes the following fields:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yehiaz2409/Bank-Progress-Dashboard.git]
+   git clone https://github.com/yehiaz2409/Bank-Progress-Dashboard.git
 2. **Open Power BI:**
    - Import the `.pbix` file from the cloned repository.
    - Explore the dashboard by interacting with the visualizations.
