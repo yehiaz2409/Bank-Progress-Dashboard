@@ -1,8 +1,13 @@
 # Accounts & Branch Performance Dashboard
 <div align = "center">
    <img src="Task 1.png" width = "80%" />
-   <p> final output using PowerBI</p>
+   <p> Bank's Dashboard for Account Types</p>
 </div>
+<div align = "center">
+   <img src="Task 1_Branches.png" width = "80%" />
+   <p> Bank's Dashboard for Different Branches</p>
+</div>
+
 
 ## Overview
 
