@@ -1,4 +1,8 @@
 # Accounts & Branch Performance Dashboard
+<div align = "center">
+   <img src="Task 1.png" width = "80%" />
+   <p> final output using PowerBI</p>
+</div>
 
 ## Overview
 
